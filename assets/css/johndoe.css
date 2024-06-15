@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 20vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("C://Users//reddy//Downloads//John Doe Free Website Template - Free-CSS.com//johndoe//public_html//assets//Hanupics//WhatsApp Image 2024-06-15 at 14.12.05_4c365b87.jpg");
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("C://Users//reddy//Downloads//John Doe Free Website Template - Free-CSS.com//johndoe//public_html//assets//Hanupics//WhatsApp Image 2024-06-15 at 14.12.05_4c365b87.jpg");
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Hanupics/WhatsApp\ Image\ 2024-06-15\ at\ 14.12.05_4c365b87.jpg");
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../Hanupics/WhatsApp\ Image\ 2024-06-15\ at\ 14.12.05_4c365b87.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
